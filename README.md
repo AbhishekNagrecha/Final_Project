@@ -1,4 +1,4 @@
-# Final_Project
+# Masters_Final_Project
 
 Title:-Deep Convolutional Neural Networks For
 Accurate Coronavirus Detection
