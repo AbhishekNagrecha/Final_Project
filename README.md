@@ -4,5 +4,5 @@ Deep Convolutional Neural Networks For
 Accurate Coronavirus Detection
 Through Chest CT Screening
 
-Authors
+Authors:-
 Abhishek Nagrecha and Rajesh Aytha
