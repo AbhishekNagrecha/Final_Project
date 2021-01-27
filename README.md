@@ -8,7 +8,7 @@ Authors:-
 Abhishek Nagrecha and Rajesh Aytha
 
 Supervisor:-
-DR. THIAGO E. ALVES DE OLIVEIRA3
+DR. Thiago E. Alves De Oliveira
 , (Assistant Professor(PhD), Lakehead University)
 
 
