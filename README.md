@@ -5,4 +5,4 @@ Accurate Coronavirus Detection
 Through Chest CT Screening
 
 Authors
-ABHISHEK NAGRECHA and RAJESH AYTHA
+Abhishek Nagrecha and Rajesh Aytha
