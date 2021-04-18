@@ -1,8 +1,7 @@
 # Masters_Final_Project
 
-Title:-Deep Convolutional Neural Networks For
-Accurate Coronavirus Detection
-Through Chest CT Screening
+Title:-SARS-CoV-2 Detection Through Chest
+CT Screening Using Deep Learning
 
 Authors:-
 Abhishek Nagrecha and Rajesh Aytha
